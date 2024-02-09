@@ -1,0 +1,3 @@
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/codigo a toa/OptmizationSearchAlgorithms/cmake-build-debug/CMakeFiles/OptmizationSearchAlgorithms.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/codigo a toa/OptmizationSearchAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/OneDrive/Ambiente de Trabalho/codigo a toa/OptmizationSearchAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
